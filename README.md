@@ -23,3 +23,5 @@ desconto.
 região (Sudeste, Sul, Centro-Oeste e Nordeste e Norte)
 • Apresentar em um link, uma tabela que mostre o valor de cada
 região.
+<hr>
+<img width="100%" heigth="100px" src="ass.svg"></img>
