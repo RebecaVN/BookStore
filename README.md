@@ -14,14 +14,14 @@ valor atualizado em real.
 > Também deve ter uma área para que o cliente simule o cálculo do frete
 do seu pedido com base no seu CEP:
 
-• Se a entrega for na cidade de Mogi das Cruzes: Frete Grátis
+• Se a entrega for na cidade de Mogi das Cruzes: Frete Grátis. <br>
 • Se a entrega for na Região metropolitana de São Paulo: Frete com
-50% de desconto.
+50% de desconto. <br>
 • Se a entrega for na Região Litorânea de São Paulo: Frete com 40% de
-desconto.
+desconto. <br>
 • O valor do frete para as demais regiões do Brasil serão fixos por
-região (Sudeste, Sul, Centro-Oeste e Nordeste e Norte)
+região (Sudeste, Sul, Centro-Oeste e Nordeste e Norte). <br>
 • Apresentar em um link, uma tabela que mostre o valor de cada
-região.
+região. <br>
 <hr>
 <img width="100%" heigth="100px" src="ass.svg"></img>
