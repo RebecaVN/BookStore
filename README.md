@@ -1,5 +1,5 @@
 # BookStore 
-> Atividade Proposta:
+> Projeto Proposto:
 + A loja “Importados Brasil” possuía até o momento uma rede social com
 o objetivo de direcionar seus clientes para a sua loja física e apresentar
 o catálogo de produtos importados que ela trabalha.
